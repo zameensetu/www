@@ -1,0 +1,6 @@
+{
+  "name": "ZameenSetu - Verified Land Registry & Marketplace",
+  "description": "Institutional-grade land verification, geofencing, cadastral surveying, and trusted land registry platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
